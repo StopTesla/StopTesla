@@ -9,7 +9,7 @@ STOPTESLA, STOP COBALT
 ## Contract Addresses
 | Contract  | Address |
 | ------------- | ------------- |
-| StopTesla| [0x07e289a28d07723ef2fee75a771dee0d60400619](https://bscscan.com/token/0x07e289a28d07723ef2fee75a771dee0d60400619) |
+| StopTesla| [0x098859e5e568b54427978abfa6b6b70dd35344d5](https://bscscan.com/token/0x098859e5e568b54427978abfa6b6b70dd35344d5) |
 
 
 
