@@ -28,3 +28,5 @@ Telegram Channel: https://t.me/Stoptesla_Shilling
 Whitepaper: https://stoptesla.space/wp-content/uploads/2021/10/StopTesla-Whitepaper.pdf
 
 Github: https://github.com/StopTesla/StopTesla
+
+Youtube: https://www.youtube.com/channel/UCizedPGxKE9EsrKWwnckj1w
